@@ -1,0 +1,58 @@
+[33mcommit fe16fbd3915a3fe081048ee0e6a3ea0416365303[m
+Author: Jean <jeandiegol@gmail.com>
+Date:   Mon Nov 12 14:31:01 2012 -0200
+
+    teste commit -am
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 4746073..641e5d8 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,8 +1,18 @@[m
+ <html>[m
+[31m-    <head>[m
+[31m-		<title>Arquivo GIT</title>[m
+[31m-    </head>[m
+[31m-    <body>[m
+[31m-		Teste arquivos GIT[m
+[31m-    </body>[m
+[32m+[m[32m    <head>[m[41m[m
+[32m+[m[32m    </head>[m[41m       [m
+[32m+[m[32m    <body>[m[41m        [m
+[32m+[m[32m        <h1>Git</h1>[m[41m[m
+[32m+[m[32m        <h2>Trabalhando em Equipe com Controle e Segurança</h2>[m[41m[m
+[32m+[m[41m [m
+[32m+[m[32m        <p>Um curso que explora os benefícios de utilizar o Git como ferramenta de controle de versão para projetos em qualquer linguagem, em qualquer plataforma.</p>[m[41m[m
+[32m+[m[41m             [m
+[32m+[m[32m        <h3>Principais benefícios:</h3>[m[41m[m
+[32m+[m[32m        <ul class='escaped-list'>[m[41m[m
+[32m+[m[32m            <li>Funciona de maneira distribuída</li>[m[41m[m
+[32m+[m[32m            <li>Permite a edição concorrente de arquivos do projeto</li>[m[41m[m
+[32m+[m[32m            <li>Não depende de uma conexão ativa com um servidor</li>[m[41m[m
+[32m+[m[32m            <li>Inclusao de paragrafo para teste do exercicio 7</li>[m[41m[m
+[32m+[m	[32m</ul>[m[41m[m
+[32m+[m[32m    </body>[m[41m       [m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit d852b50b40fea4cb7e8571ed02b212396c00bf7f[m
+Author: Jean <jeandiegol@gmail.com>
+Date:   Mon Nov 12 13:46:51 2012 -0200
+
+    Primeiro Commit
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4746073[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32m<html>[m[41m[m
+[32m+[m[32m    <head>[m[41m[m
+[32m+[m		[32m<title>Arquivo GIT</title>[m[41m[m
+[32m+[m[32m    </head>[m[41m[m
+[32m+[m[32m    <body>[m[41m[m
+[32m+[m		[32mTeste arquivos GIT[m[41m[m
+[32m+[m[32m    </body>[m[41m[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
